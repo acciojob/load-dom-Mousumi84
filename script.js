@@ -1,4 +1,4 @@
 document.addEventListener("DOMContentLoaded", () => {
-	document.body.innerText(DOM load success);
+	document.body.innerText="DOM load success";
 })
 
