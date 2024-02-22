@@ -1,1 +1,3 @@
-//your JS code here. If required.
+let div=document.createElement("div");
+div.innerText="DOM load success";
+script.before(div);
